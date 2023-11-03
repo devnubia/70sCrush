@@ -18,7 +18,6 @@ Dive into a world of '70s nostalgia, featuring afro picks, classic '70s cars, be
 
 🎶 **'70s Soundtrack:** Groove to the funky '70s soundtrack with disco hits and celebration tunes.
 
-![Image Prompt: Mobile '70s-themed Matching Game](image_prompt_link_here)
 
 **Screen Orientation:** Portrait
 
